@@ -1,5 +1,5 @@
 # react-router-v6
-This repository is created based on the 20th module of the course "React - The Complete Guide 2022" by Maximilian Schwarzmüller. The apps here are the same apps in projects: routing-react (https://github.com/IS-Projects/routing-react/tree/master) and great-quotes-routing-react (https://github.com/IS-Projects/great-quotes-routing-react/tree/master), but in this repository they use react-router version 6 instead of 5.
+This repository is created based on the 20th module of the course "React - The Complete Guide 2022" by Maximilian Schwarzmüller. The apps here are the same apps in projects: routing-react (https://github.com/IS-Projects/routing-react) and great-quotes-routing-react (https://github.com/IS-Projects/great-quotes-routing-react), but in this repository they use react-router version 6 instead of 5.
 
 The changes in the projects reflect the following items that apply to version 6:
 
