@@ -1,13 +1,10 @@
-# About This Repository
+# About
 
-This repository belongs to my "React Router v6 Upgrade Guide" YouTube [video](...).
+This folder reflects how the project great-quotes-routing-react https://github.com/IS-Projects/great-quotes-routing-react would be after migrating it to using react router v6.
 
-You can also learn all about React (incl. React Router) in my ["React - The Complete Guide" course](https://acad.link/reactjs).
+## Script to run the project:
 
-The code in this repository is organized into different branches that represent different demo apps and code snapshots (used in the video linked above). You find `-v5` and `-v6` branches which represent the code for these two different versions of React Router.
+### `npm start`
 
-Also check out the official [docs](https://reactrouter.com/) and the official [v5 => v6 upgrade guide](https://reactrouter.com/docs/en/v6/upgrading/v5).
-
-# How To Use
-
-The code is primarily meant to be used for comparison (i.e. you compare your code with mine). You can of course also download or clone the repository though. If you do that, you can `npm install` all dependencies and start the development server via `npm start`.
+Runs the app in development mode.
+Open http://localhost:3000 to view it in the browser.
