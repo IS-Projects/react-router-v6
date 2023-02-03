@@ -9,7 +9,7 @@ The changes in the projects reflect the following items that apply to version 6:
 - NavLink does not have activeClassName property, instead className accepts a function that can check if the element is active or not.
 - Redirect component is replaced by Navigate component with the prop "replace" in it. If used without replace, the page is simply pushed.
 - For nested routes, we need to wrap Route with Routes always. Also, the main path needs to include the "/*" to be able to reach to the nested element. And the nested element path now needs to be written as a relative path to the parent path.
-- An alternative for nestes routes is to put it in the main routes file, and then use the Outlet component to specifiy where we want the nested component to be in.
+- An alternative for nested routes is to put it in the main routes file, and then use the Outlet component to specifiy where we want the nested component to be in.
 - useHistory hook is replaced by useNavigate hook. 
 	- To push a website, we simply pass the path as an argument. Ex: navigate('/welcome')
 	- To replace the website, we add the object {replace: true} as another argument. 	Ex: navigate('/welcome', {replace:true}) 
